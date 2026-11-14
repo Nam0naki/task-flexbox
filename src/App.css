@@ -9,7 +9,6 @@ body,
    height: 300px;
    display: flex;
    justify-content: space-between;
-   border: 1px solid #ccc;
 }
 .flex-container > div{
     width: 100px;
