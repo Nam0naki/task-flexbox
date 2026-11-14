@@ -10,7 +10,6 @@ body,
    display: flex;
    justify-content: space-between;
    border: 1px solid #ccc;
-   margin: 20px;
 }
 .flex-container > div{
     width: 100px;
